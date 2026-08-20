@@ -70,6 +70,6 @@ Evidence-based reasoning:
   [x] Check the system for signs it was already run (a hidden_admin account, a cleared auth log)
 
 
-============================================================
+===============================
  END OF ANALYSIS
-============================================================
+===============================
